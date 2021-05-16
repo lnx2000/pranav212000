@@ -1,4 +1,4 @@
-### Hi I'm Pranav 👋
+### Hi I'm Omkar 👋
 
 <!--
 **pranav212000/pranav212000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Github stats](https://github-readme-stats.vercel.app/api?username=pranav212000&theme=radical&layout=compact&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav212000&layout=compact&theme=radical)
+![Github stats](https://github-readme-stats.vercel.app/api?username=lnx2000&theme=radical&layout=compact&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnx2000&layout=compact&theme=radical)
